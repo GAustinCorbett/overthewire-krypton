@@ -1,6 +1,12 @@
 '''
+
 Allows scoring of text using n-gram probabilities
 17/07/12
+
+
+
+Taken from: http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/#a-python-implementation
+Then ported to python 3
 '''
 from math import log10
 
